@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnp43%2Fkvwmap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnp43%2Fkvwmap?ref=badge_shield)
+
 ﻿kvwmap ist ein Open Source WebGIS-Framework zur Erfassung, Verarbeitung, Analyse und Präsentation 
 von raumbezogenen Informationen. Die Anwendung ist in PHP implementiert und verwendet verschiedene 
 Open-Source-GIS-Komponenten, wie den UMN-MapServer, PostGIS und OGR. kvwmap besitzt ein leistungsfähiges 
@@ -28,3 +30,7 @@ Dienstleistungen zur Einrichtung und Weiterentwicklung werden von der Firma http
 
 peter.korduan@gdi-service.de
 stefan.rahn@gdi-service.de
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnp43%2Fkvwmap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnp43%2Fkvwmap?ref=badge_large)
